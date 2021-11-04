@@ -18,7 +18,7 @@ we want to understand how casual riders and annual members use Cyclistic bikes d
 1. Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders.
 2. Casual riders are already aware of the Cyclistic program and have chosen Cyclistic for their mobility needs.
 
-### Agenda
+### Table of content
 1. Business Task
 2. Description of data sources used
 3. Documentation of cleaning data
